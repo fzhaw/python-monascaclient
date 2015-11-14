@@ -19,5 +19,7 @@
 import setuptools
 
 setuptools.setup(
+    name='python-monascaclient',
+    version='1.2.1',
     setup_requires=['pbr==1.8.1'],
     pbr=True)
